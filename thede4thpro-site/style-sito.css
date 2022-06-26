@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+h1 {
+    font-size: 400%;
+    color: white;
+}
+
+details {
+    color: white;
+    font-size: 150%;
+}
+
+.lagezza-testo {
+    font-size: 300%;
+}
+
+p {
+    color: white;
+}
+
+
+.posizione-destra {
+    text-align: right;
+}
+
+.posizione-sinistra {
+    text-align: left;
+}
+
+.posizione-centro {
+    text-align: center;
+}
+
+.grandezza-testo  {
+    font-size: 130%;
+}
